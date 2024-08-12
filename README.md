@@ -12,4 +12,4 @@ Most of my repo is private but don't worry, I will release some projects soon.
 </div>
 
 ## Main project
-I'm working on a noteblock web app.
+I'm working on a scalable, multi functional enterprise system
